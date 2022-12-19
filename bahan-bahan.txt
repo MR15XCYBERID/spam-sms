@@ -18,3 +18,7 @@ $ pip install request
 $ pip install mechanize
 
 $ git clone https://github.com/MR15XCYBERID/spam-sms
+
+$ cd spam-sms
+
+$ python2 SMS.py
